@@ -11,7 +11,7 @@
 ### 2. **Introduction to Web Development**
 - Understand the basics of web development.
   - HTML, CSS, and JavaScript
-  - HTTP/HTTPS Protocols
+  - HTTP/HTTPS Protocols.
   - Client-Server Architecture
 
 ### 3. **Setting Up Django**
