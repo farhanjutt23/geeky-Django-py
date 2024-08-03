@@ -10,7 +10,7 @@
 
 ### 2. **Introduction to Web Development**
 - Understand the basics of web development.
-  - HTML, CSS, and JavaScript
+  - HTML, CSS, and JavaScript..
   - HTTP/HTTPS Protocols.
   - Client-Server Architecture.
 
