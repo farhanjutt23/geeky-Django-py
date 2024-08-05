@@ -6,7 +6,7 @@
   - Control Flow (if-else, loops)
   - Functions and Modules
   - Exception Handling
-  - Object-Oriented Programming (OOP) Concepts
+  - Object-Oriented Programming (OOP) Concepts.
 
 ### 2. **Introduction to Web Development**
 - Understand the basics of web development.
