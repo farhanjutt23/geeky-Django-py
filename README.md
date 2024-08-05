@@ -16,7 +16,7 @@
 
 ### 3. **Setting Up Django**
 - Install Django and set up your development environment.
-  - Install Python and Django
+  - Install Python and Django.
   - Set up a virtual environment
   - Create a Django project..
 
