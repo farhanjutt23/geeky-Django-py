@@ -32,7 +32,7 @@
 - Create views and templates to render HTML pages.
   - Function-based Views (FBV)
   - Template Language
-  - Template Inheritance
+  - Template Inheritance.
 
 ### 6. **Django ORM (Object-Relational Mapping)**
 - Understand Django's ORM to interact with the database.
