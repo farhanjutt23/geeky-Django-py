@@ -42,7 +42,7 @@
   - Querying the Database
 
 ### 7. **Forms and User Input**
-- Handle user input through forms.
+- Handle user input through forms..
   - Django Forms
   - Form Validation
   - Model Forms
