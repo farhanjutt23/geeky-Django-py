@@ -5,7 +5,7 @@
   - Variables, Data Types, and Operators.
   - Control Flow (if-else, loops)
   - Functions and Modules
-  - Exception Handling
+  - Exception Handling.
   - Object-Oriented Programming (OOP) Concepts.
 
 ### 2. **Introduction to Web Development**
