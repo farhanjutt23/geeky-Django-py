@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple HTML Page</title>
+</head>
+<body>
+     {% if cn %}
+     <h1> hlo {{cn}} </h1>
+     {% endif %}  
+
+
+     {% comment %} there are we will use the end or and not operaters {% endcomment %}
+     {% if cn and du %} 
+     <h2> hlo {{cn }}  the course will b end {{du}} </h2>
+     {% endif %}
+
+     {% comment %} this is the or operator that we can used in the html of the django {% endcomment %}
+     {% if cn or du %} 
+     <h2> hlo {{cn }}  the course will b end {{du}} </h2>
+     {% endif %}
+     {% comment %} then there is the not operator that can used in the  {% endcomment %}
+     {% if not cn %}
+     <h2> hlo {{cn }}  are not avalilble </h2>
+     {% endif %}
+</body>
+</html>
