@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <link rel="stylesheet" href="{% static 'css/style.css' %} "/>
+        <title>  django img </title>
+    </head>
+   <body>
+    <h1> my name is {{tit}} and my learn is {{cn}}
+        <img src=" {% static 'images/img_two.jpg' %} " alt="love" />
+        <img src=" {% get_static_prefix %}images/img_two.jpg " alt="love"/>
+        <hr>
+        <form action=""> 
+            <input type="button" value="click me" onclick="disp()" />
+        </form> 
+        <script src="{% static 'js/alt.js' %}"> </script>
+    </body>
+</html>
+
+
