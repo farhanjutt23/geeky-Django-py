@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>django</title>
+    <link rel="stylesheet" href="{% static 'course/css/style.css' %}">
+</head>
+<body>
+    <h1> the  {{nm }} is the course and the duration of this course is the and  {{du}} </h1>
+    <h1>My name is the Farhan jutt sb i am the toper of the class and this is the file of the code</h1>
+    <h1>This the complata info of the code</h1>
+    <img src="{% static 'course/images/love.jpg' %}" alt="love">
+    <img src="{% static 'images/love.jpg' %}" alt="love">
+    <form action="">
+        <input type="button" value="click on me" onclick="disp()">
+    </form>
+    <script src=" {% static 'course/js/fa.js' %}"></script>
+</body>
+</html>
