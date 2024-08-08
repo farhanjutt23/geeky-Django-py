@@ -102,14 +102,4 @@
   - Engage in Django communities and forums
   - Work on real-world projects and contribute to open-source
 
-### Resources
-- **Official Django Documentation**: [Django Documentation](https://docs.djangoproject.com/en/stable/)
-- **Books**:
-  - "Django for Beginners" by William S. Vincent
-  - "Two Scoops of Django" by Daniel Roy Greenfeld and Audrey Roy Greenfeld
-- **Online Courses**:
-  - Django on [Coursera](https://www.coursera.org/)
-  - Django on [Udemy](https://www.udemy.com/)
-- **Practice**: Build projects and participate in coding challenges on platforms like [LeetCode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/).
 
-By following this roadmap, you will systematically build your knowledge and skills in Django, from the basics to advanced concepts.
