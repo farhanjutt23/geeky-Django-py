@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}Other{% endblock title %}</title>
+    <link rel="stylesheet" href="{% static 'core/css/bootstrap.min.css' %}">
+    {% block cor %}
+    <link rel="stylesheet" href=" {% static 'core/css/style.css' %} ">
+    {% endblock cor %}
+  </head>
+  <body>
+    <nav>
+      <ul>    
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+      </ul>
+    </nav>
+       
+    <div class="btn-group" role="group" aria-label="Basic example">
+      <button type="button" class="btn btn-primary">Left</button>
+      <button type="button" class="btn btn-primary">Middle</button>
+      <button type="button" class="btn btn-primary">Right</button>
+    </div>
+    {% block cont %}{% endblock cont %}
+    <script src="{% static  'core/js/jquery.js' %}"></script>
+    <script src="{% static  'core/js/popper.js' %}"></script>
+    <script src="{% static  'core/js/bootstrap.min.js' %}"></script>
+  </body>
+</html>
