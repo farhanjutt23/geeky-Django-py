@@ -21,7 +21,7 @@
   - Create a Django project..
 
 ### 4. **Django Fundamentals**
-- Learn the core concepts of Django.
+- Learn the core concepts of Django...
   - Django Project Structure
   - Django Apps
   - Models and Databases (SQLite for starters)
