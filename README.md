@@ -1,7 +1,7 @@
 ۔
 
 ### 1. **Basics of Python**
-- Ensure you have a solid understanding of Python basics.
+- Ensure you have a solid understanding of Python basics
   - Variables, Data Types, and Operators.
   - Control Flow (if-else, loops)
   - Functions and Modules
