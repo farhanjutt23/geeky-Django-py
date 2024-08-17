@@ -56,7 +56,7 @@
   - User Permissions and Groups
 
 ### 9. **Static Files and Media**
-- Manage static files (CSS, JavaScript) and media files (uploads).
+- Manage static files (CSS, JavaScript) and media files (uploads)..
   - Serving Static Files
   - Handling Media Files
   - Configuring Static and Media Files in Production
