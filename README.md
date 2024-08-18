@@ -83,7 +83,7 @@
   - Database Management in Production (PostgreSQL)
 
 ### 13. **Performance Optimization**
-- Optimize the performance of your Django application.
+- Optimize the performance of your Django application..
   - Caching
   - Query Optimization
   - Load Testing
