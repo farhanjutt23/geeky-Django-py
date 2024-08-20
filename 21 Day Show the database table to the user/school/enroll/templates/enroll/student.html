@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        body{
+            background-color: green;
+        }
+        th,td{
+            border: 1px black solid;
+            color: black;
+            
+        }
+    </style>
+</head>
+<body>
+    <h1>This is the student page</h1>
+    {% if stu %}
+    
+    <h1>Show me the data</h1>
+    <h3> {{stu}} </h3>
+   <table>
+    <tr>
+        <th>ID</th>
+        <th>StuID</th>
+        <th>Stuname</th>
+        <th>Stuemail</th>
+        <th>StuPassword</th>
+    </tr>
+    
+    {% for st in stu  %}
+    <tr>
+        <td> {{st.id}}</td>
+        <td>{{st.stuid}}</td>
+        <td>{{st.stuname}}</td>
+        <td>{{st.stuemail}}</td>
+        <td>{{st.stupas}}</td>
+    </tr>
+    {% endfor %}
+   </table>
+
+
+
+
+
+
+
+     {% else %}
+     <h1>No data  </h1>
+    {% endif %}
+    
+</body>
+</html>
