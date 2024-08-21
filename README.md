@@ -18,7 +18,7 @@
 - Install Django and set up your development.. environment..
   - Install Python and Django.
   - Set up a virtual environment
-  - Create a Django project..
+  - Create a Django project...
 
 ### 4. **Django Fundamentals**
 - Learn the core concepts of Django...
