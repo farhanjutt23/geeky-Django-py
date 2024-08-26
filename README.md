@@ -97,7 +97,7 @@
   - Handling Sensitive Data
 
 ### 15. **Continuous Learning**
-- Keep learning and improving.
+- Keep learning and improving..
   - Follow Django's official documentation and updates
   - Engage in Django communities and forums
   - Work on real-world projects and contribute to open-source
