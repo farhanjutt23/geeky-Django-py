@@ -1,4 +1,4 @@
-....................۔
+
 
 ### 1. **Basics of Python**
 - Ensure you have a solid understanding of Python basics
